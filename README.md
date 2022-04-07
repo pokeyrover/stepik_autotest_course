@@ -2,3 +2,4 @@
 Homework for cours
 This is test file for future study
 I need expect changes of bash
+If you want - you do
