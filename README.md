@@ -1,6 +1,4 @@
 # stepik_autotest_course
-Homework for cours
+Homework for course
 This is test file for future study
-I need expect changes of bash
-If you want - you do
-Some experiments are good for explore
+Це репозиторій для зберігання майбутніх робіз з курсу по автоматизації тестування
